@@ -32,6 +32,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_svg: any
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -43,6 +45,14 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  
+  # assets:
+  #   - assets/images/vector.svg
+    
+  #   - assets/images/rectangle366.svg
+  #   - assets/images/rectangle367.svg
+    
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
